@@ -1,0 +1,18 @@
+.greenBg{
+    background-color: green;
+}
+.redBg{
+    background-color: red;
+}
+.shadow{
+    background-color: aqua;
+    box-shadow: 0px 0px 50px 1px  black ;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.mainCard{
+    width: 20%;
+}
+
